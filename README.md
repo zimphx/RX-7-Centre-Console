@@ -1,4 +1,4 @@
-# RX-7 Centre Console Redesign
+# RX-7 Interior Redesign
 
 ## Overview
 Full redesign and fabrication of the centre console for a 1988 Mazda RX-7 FC3S. The goal was to modernize the interior functionality while preserving the vintage aesthetic of the vehicle.
