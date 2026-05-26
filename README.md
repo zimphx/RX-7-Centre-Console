@@ -8,7 +8,7 @@ Full redesign and fabrication of the centre console for a 1988 Mazda RX-7 FC3S. 
 - USB charging outlet for modern device compatibility
 - Custom designed air vents
 - Repositioned factory warning lights with rewired connections
-- 5 degree draft angle towards driver for improved ergonomics
+- 7 degree draft angle towards driver for improved ergonomics
 
 ## Tools & Skills Used
 - **CAD Software:** Fusion 360
